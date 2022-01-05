@@ -1,11 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-Hello-Microverse
+# Hello-Microverse
 
-> One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+> In this project, I have set up a "Hello world" repository.
+
+![screenshot](https://user-images.githubusercontent.com/35833179/148285693-b1043a1d-02ff-4744-816f-4f9412efa726.PNG)
 
 Additional description about the project and its features.
 
@@ -17,7 +17,7 @@ Additional description about the project and its features.
 
 ## Live Demos
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/jbrime15/Hello-Microverse/add-linters/index.html)
 
 
 ## Getting Started
